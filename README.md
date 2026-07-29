@@ -29,18 +29,35 @@ multimodal input  →  intelligence layer  →  production API  →  human-cente
 ```
 
 - 🛡️ Building multimodal safety systems across text, image, audio, and video
-- 🧠 Developing medical-computer-vision and decision-support prototypes
+- 🎨 Creating multi-provider generative AI tools and 3D workflows
+- 🧠 Developing medical computer vision and decision-support products
 - 🔎 Engineering grounded AI experiences with RAG and domain knowledge
 - ⚙️ Taking products end to end, from model inference to APIs, interfaces, cloud storage, and deployment
 
-## Selected work
+## Active / Flagship Products
+
+| Product | Scope | Stack and proof |
+| :--- | :--- | :--- |
+| **Orvia Labs** | Multi-provider AI creative studio with prompt optimization, remix workflows, layered editing, and video creation. | Next.js · React · FastAPI · Python<br>**[Watch demo ↗](https://youtu.be/-5e21EvldGg)** |
+| **[Aegis](https://github.com/Atasatti/Aegis-Content_Moderator)** | Multimodal content moderation across text, image, audio, and video. Includes 13 policy categories, NSFW classification, OCR, transcription, structured JSON output, and a persistent audit trail. | Next.js · TypeScript · FastAPI · Python<br>**[Watch demo ↗](https://youtu.be/9hSEKJ_aumE)** |
+| **Orvia 3D Arts** | End-to-end sketch to photorealistic image to 3D asset pipeline with an interactive browser-based preview. | Next.js · Three.js · FastAPI · PyTorch<br>**[Watch demo ↗](https://youtu.be/f-yHO4Eawu4)** |
+| **[Dental AI](https://github.com/Atasatti/Dental_AI)** | Oral diagnosis SaaS with a six-class RGB image pipeline, X-ray implant-feasibility analysis, patient and dentist dashboards, scheduling, a RAG assistant, and billing. | FastAPI · React · PyTorch · MongoDB<br>**[Watch demo ↗](https://www.youtube.com/watch?v=PzzG26pMPjs)** |
+
+## Professional / Client Work
+
+| Product | Scope | Stack and proof |
+| :--- | :--- | :--- |
+| **[Oscillation Records](https://github.com/Atasatti/oscillationrecords)** | Production platform for a UK independent record label. Supports artists, releases, streaming, submissions, user accounts, analytics, and content management. | Next.js · TypeScript · Prisma · MongoDB · NextAuth · AWS S3<br>**[Visit live site ↗](https://www.oscillationrecords.com/)** |
+| **[Content Moderation System](https://github.com/Atasatti/ConvrtX-Memee_Content_Moderator)** | Original production system developed at ConvrtX/Memee that became Aegis, alongside separate generative image and video pipelines. | Multimodal AI · Content safety · Generative media |
+
+## Earlier / Foundational Projects
 
 | Project | What it demonstrates | Core stack |
 | :--- | :--- | :--- |
-| **[Aegis · Content Moderator](https://github.com/Atasatti/Aegis-Content_Moderator)** | Multimodal moderation for text, images, audio, and video using policy scoring, contact-information detection, OCR, transcription, NSFW classification, and video-frame analysis. | FastAPI · Next.js · OpenAI · Whisper · EasyOCR · TensorFlow |
-| **[Dental AI](https://github.com/Atasatti/Dental_AI)** | Research and educational dental platform combining image diagnosis, implant-feasibility analysis, a Gemini-powered RAG assistant, analytics, appointments, authentication, and payments. | PyTorch · YOLO · FastAPI · Gemini · MongoDB · React |
-| **[Oscillation Records](https://github.com/Atasatti/oscillationrecords)** | Production catalog and content platform with an admin workflow, listener analytics, authentication, media uploads, and a remix competition. **[Live site ↗](https://www.oscillationrecords.com/)** | Next.js · TypeScript · Prisma · MongoDB · AWS S3 |
-| **[NeuroVision AI](https://github.com/Atasatti/NeuroVision-AI)** | Brain-tumor detection from MRI scans with classification, confidence and risk outputs, visual localization, and downloadable reports. | YOLO · FastAPI · OpenCV · NumPy |
+| **[NeuroVision AI](https://github.com/Atasatti/NeuroVision-AI)** | MRI brain-tumor detection with classification, visual localization, confidence scoring, and web-based inference. | PyTorch · FastAPI · OpenCV |
+| **[Potato Disease Classifier](https://github.com/Atasatti/Potato_disease_Classification)** | Deep-learning classification for Early Blight, Late Blight, and healthy potato leaves. | Keras · FastAPI · OpenCV |
+| **[Data Visualization & Analytics](https://github.com/Atasatti/PowerBI_Dashboards)** | Airline-loyalty and retail business-intelligence dashboards with exploratory analysis and decision-focused reporting. | Power BI · Python · MySQL · Matplotlib · Seaborn |
+| **[Voyage Vista](https://github.com/Atasatti/Voyage_Vista)** | Travel-management system with authentication, package management, reviews, and persistent data workflows. | FastAPI · MongoDB Atlas · Jinja2 |
 
 ## Technology radar
 
@@ -49,10 +66,10 @@ multimodal input  →  intelligence layer  →  production API  →  human-cente
 ![Python](https://img.shields.io/badge/Python-08111F?style=flat-square&logo=python&logoColor=00E5FF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-08111F?style=flat-square&logo=pytorch&logoColor=FF6B6B)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-08111F?style=flat-square&logo=tensorflow&logoColor=FFB020)
-![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-08111F?style=flat-square&logo=yolo&logoColor=8B5CF6)
+![Keras](https://img.shields.io/badge/Keras-08111F?style=flat-square&logo=keras&logoColor=D00000)
 ![OpenCV](https://img.shields.io/badge/OpenCV-08111F?style=flat-square&logo=opencv&logoColor=00E5FF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-08111F?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Gemini](https://img.shields.io/badge/Google_Gemini-08111F?style=flat-square&logo=googlegemini&logoColor=8B5CF6)
+![Google AI](https://img.shields.io/badge/Google_AI-08111F?style=flat-square&logo=google&logoColor=8B5CF6)
 ![RAG](https://img.shields.io/badge/RAG-08111F?style=flat-square&logo=semanticweb&logoColor=00E5FF)
 
 **Systems, product & cloud**
@@ -61,6 +78,7 @@ multimodal input  →  intelligence layer  →  production API  →  human-cente
 ![TypeScript](https://img.shields.io/badge/TypeScript-08111F?style=flat-square&logo=typescript&logoColor=4DA3FF)
 ![Next.js](https://img.shields.io/badge/Next.js-08111F?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/React-08111F?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-08111F?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-08111F?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Prisma](https://img.shields.io/badge/Prisma-08111F?style=flat-square&logo=prisma&logoColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/AWS_S3-08111F?style=flat-square&logo=amazons3&logoColor=FFB020)
