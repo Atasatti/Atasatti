@@ -10,9 +10,6 @@
 <br />
 
 <div align="center">
-  <a href="https://portfolio-iota-lyart-28.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=08111F&labelColor=08111F" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/ata-satti">
     <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=08111F" alt="LinkedIn" />
   </a>
