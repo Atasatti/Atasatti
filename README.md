@@ -23,7 +23,7 @@
 
 ## `> whoami`
 
-I’m **Ata Ul Haq**, an **AI Engineer at [Oscillation Records](https://www.oscillationrecords.com/)** based in Islamabad, Pakistan.
+I’m **Ata Ul Haq**, an **AI Engineer** based in Islamabad, Pakistan, working with **[Oscillation Records](https://www.oscillationrecords.com/)** in Chadderton, Oldham, United Kingdom.
 
 I build AI systems that ship—not demos. My work connects **multimodal machine learning, computer vision, RAG, backend engineering, and product UX** to turn models into dependable, useful software.
 
