@@ -1,0 +1,110 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ata Ul Haq — AI Engineer</title>
+  <desc id="desc">A futuristic dark banner with cyan and violet neural-network graphics and the words building intelligence that ships.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="40" y1="12" x2="1150" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050B14"/>
+      <stop offset="0.55" stop-color="#081426"/>
+      <stop offset="1" stop-color="#0D1023"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="280" x2="605" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="690" y1="70" x2="1115" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.1"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientTransform="translate(1050 90) rotate(139) scale(380 280)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientTransform="translate(780 340) rotate(-55) scale(360 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8DA2BD" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect width="1200" height="360" fill="url(#glowCyan)"/>
+    <rect width="1200" height="360" fill="url(#glowViolet)"/>
+
+    <path d="M0 321C143 275 234 338 379 299C509 264 571 204 707 216C840 228 914 293 1200 198" stroke="url(#accent)" stroke-opacity="0.16" stroke-width="1.5"/>
+    <path d="M0 334C162 286 257 350 395 315C529 281 602 228 724 237C866 248 951 301 1200 220" stroke="#00E5FF" stroke-opacity="0.07" stroke-width="1"/>
+
+    <g opacity="0.92">
+      <rect x="66" y="54" width="170" height="28" rx="14" fill="#0B1E2C" stroke="#00E5FF" stroke-opacity="0.32"/>
+      <circle cx="84" cy="68" r="4" fill="#00E5FF" filter="url(#softGlow)"/>
+      <text x="97" y="72.5" fill="#A9C3D8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="1.7">SYSTEM ONLINE</text>
+    </g>
+
+    <text x="66" y="142" fill="#F5FAFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="55" font-weight="760" letter-spacing="-1.6">ATA UL HAQ</text>
+    <rect x="68" y="165" width="415" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="66" y="210" fill="#D5E7F3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="550" letter-spacing="5">AI ENGINEER</text>
+    <text x="66" y="249" fill="#7F9CB1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" letter-spacing="2.2">MULTIMODAL SYSTEMS  ·  COMPUTER VISION  ·  PRODUCTION AI</text>
+    <text x="66" y="298" fill="#00E5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2">&gt; BUILDING INTELLIGENCE THAT SHIPS_</text>
+
+    <g stroke="url(#signal)" stroke-width="1.2">
+      <path d="M710 96L792 68L865 117L948 77L1052 108L1121 66"/>
+      <path d="M710 96L746 173L841 196L865 117"/>
+      <path d="M746 173L698 254L807 286L841 196"/>
+      <path d="M841 196L913 246L1003 195L948 77"/>
+      <path d="M913 246L999 301L1084 246L1003 195"/>
+      <path d="M1052 108L1003 195L1103 168L1121 66"/>
+      <path d="M1103 168L1084 246L1152 287"/>
+      <path d="M792 68L841 196"/>
+      <path d="M948 77L841 196"/>
+    </g>
+
+    <g fill="#081426" stroke-width="1.5">
+      <circle cx="710" cy="96" r="6" stroke="#00E5FF"/>
+      <circle cx="792" cy="68" r="4" stroke="#00E5FF" stroke-opacity="0.8"/>
+      <circle cx="865" cy="117" r="8" stroke="#7C72FF"/>
+      <circle cx="948" cy="77" r="5" stroke="#00E5FF"/>
+      <circle cx="1052" cy="108" r="7" stroke="#8B5CF6"/>
+      <circle cx="1121" cy="66" r="4" stroke="#00E5FF" stroke-opacity="0.75"/>
+      <circle cx="746" cy="173" r="5" stroke="#8B5CF6"/>
+      <circle cx="841" cy="196" r="10" stroke="#00E5FF"/>
+      <circle cx="698" cy="254" r="4" stroke="#00E5FF"/>
+      <circle cx="807" cy="286" r="6" stroke="#8B5CF6"/>
+      <circle cx="913" cy="246" r="5" stroke="#00E5FF"/>
+      <circle cx="1003" cy="195" r="9" stroke="#8B5CF6"/>
+      <circle cx="1103" cy="168" r="5" stroke="#00E5FF"/>
+      <circle cx="999" cy="301" r="5" stroke="#00E5FF"/>
+      <circle cx="1084" cy="246" r="8" stroke="#8B5CF6"/>
+      <circle cx="1152" cy="287" r="4" stroke="#00E5FF"/>
+    </g>
+
+    <g fill="#00E5FF" filter="url(#softGlow)">
+      <circle cx="841" cy="196" r="2.5"/>
+      <circle cx="710" cy="96" r="1.8"/>
+      <circle cx="948" cy="77" r="1.7"/>
+      <circle cx="1103" cy="168" r="1.7"/>
+    </g>
+
+    <g opacity="0.55" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#91A8BA">
+      <text x="724" y="89">INPUT</text>
+      <text x="851" y="186">MODEL</text>
+      <text x="1016" y="188">SYSTEM</text>
+      <text x="1096" y="239">SHIP</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="23.25" stroke="url(#accent)" stroke-opacity="0.2" stroke-width="1.5"/>
+  </g>
+</svg>
