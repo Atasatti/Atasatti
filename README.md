@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Ata Ul Haq — AI Engineer building production AI systems" />
+  <img src="./assets/hero.svg" width="100%" alt="Ata Ul Haq, AI Engineer building production AI systems" />
 </div>
 
 <br />
@@ -25,7 +25,7 @@
 
 I’m **Ata Ul Haq**, an **AI Engineer** based in Islamabad, Pakistan, working with **[Oscillation Records](https://www.oscillationrecords.com/)** in Chadderton, Oldham, United Kingdom.
 
-I build AI systems that ship—not demos. My work connects **multimodal machine learning, computer vision, RAG, backend engineering, and product UX** to turn models into dependable, useful software.
+I build AI systems that ship, not demos. My work connects **multimodal machine learning, computer vision, RAG, backend engineering, and product UX** to turn models into dependable, useful software.
 
 ```text
 multimodal input  →  intelligence layer  →  production API  →  human-centered product
@@ -34,7 +34,7 @@ multimodal input  →  intelligence layer  →  production API  →  human-cente
 - 🛡️ Building multimodal safety systems across text, image, audio, and video
 - 🧠 Developing medical-computer-vision and decision-support prototypes
 - 🔎 Engineering grounded AI experiences with RAG and domain knowledge
-- ⚙️ Taking products end to end—from model inference to APIs, interfaces, cloud storage, and deployment
+- ⚙️ Taking products end to end, from model inference to APIs, interfaces, cloud storage, and deployment
 
 ## Selected work
 
