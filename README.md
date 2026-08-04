@@ -36,19 +36,19 @@ multimodal input  →  intelligence layer  →  production API  →  human-cente
 
 ## Active / Flagship Products
 
-| Product | Scope | Stack and proof |
+| Product | Scope | Build and proof |
 | :--- | :--- | :--- |
 | **Orvia Labs** | Multi-provider AI creative studio with prompt optimization, remix workflows, layered editing, and video creation. | Next.js · React · FastAPI · Python<br>**[Watch demo ↗](https://youtu.be/-5e21EvldGg)** |
-| **[Aegis](https://github.com/Atasatti/Aegis-Content_Moderator)** | Multimodal content moderation across text, image, audio, and video. Includes 13 policy categories, NSFW classification, OCR, transcription, structured JSON output, and a persistent audit trail. | Next.js · TypeScript · FastAPI · Python<br>**[Watch demo ↗](https://youtu.be/9hSEKJ_aumE)** |
+| **[Aegis](https://github.com/Atasatti/Aegis-Content_Moderator)** | Independent AI safety workspace that gives teams one consistent review experience for text and media, with clear decisions, case history, and operator-focused reporting. | Standalone product<br>**[Watch demo ↗](https://youtu.be/9hSEKJ_aumE)** |
 | **Orvia 3D Arts** | End-to-end sketch to photorealistic image to 3D asset pipeline with an interactive browser-based preview. | Next.js · Three.js · FastAPI · PyTorch<br>**[Watch demo ↗](https://youtu.be/f-yHO4Eawu4)** |
 | **[Dental AI](https://github.com/Atasatti/Dental_AI)** | Oral diagnosis SaaS with a six-class RGB image pipeline, X-ray implant-feasibility analysis, patient and dentist dashboards, scheduling, a RAG assistant, and billing. | FastAPI · React · PyTorch · MongoDB<br>**[Watch demo ↗](https://www.youtube.com/watch?v=PzzG26pMPjs)** |
 
 ## Professional / Client Work
 
-| Product | Scope | Stack and proof |
+| Product | Scope | Build and proof |
 | :--- | :--- | :--- |
 | **[Oscillation Records](https://github.com/Atasatti/oscillationrecords)** | Production platform for a UK independent record label. Supports artists, releases, streaming, submissions, user accounts, analytics, and content management. | Next.js · TypeScript · Prisma · MongoDB · NextAuth · AWS S3<br>**[Visit live site ↗](https://www.oscillationrecords.com/)** |
-| **[Content Moderation System](https://github.com/Atasatti/ConvrtX-Memee_Content_Moderator)** | Original production system developed at ConvrtX/Memee that became Aegis, alongside separate generative image and video pipelines. | Multimodal AI · Content safety · Generative media |
+| **[Content Moderation System](https://github.com/Atasatti/ConvrtX-Memee_Content_Moderator)** | Custom client solution created for ConvrtX/Memee to support internal content operations, platform integration, and moderation workflows within an existing product environment. | Professional client delivery<br>Implementation details private |
 
 ## Earlier / Foundational Projects
 
